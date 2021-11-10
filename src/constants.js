@@ -1,0 +1,1 @@
+export const URL = "https://test-chat-backend-hwads.ondigitalocean.app/api/messages?skip=3&limit=25 "
