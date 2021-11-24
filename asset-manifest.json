@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/chat-test/static/css/main.aa880576.chunk.css",
+    "main.js": "/chat-test/static/js/main.03c64c39.chunk.js",
+    "main.js.map": "/chat-test/static/js/main.03c64c39.chunk.js.map",
+    "runtime-main.js": "/chat-test/static/js/runtime-main.46b69e27.js",
+    "runtime-main.js.map": "/chat-test/static/js/runtime-main.46b69e27.js.map",
+    "static/js/2.f8baf7e7.chunk.js": "/chat-test/static/js/2.f8baf7e7.chunk.js",
+    "static/js/2.f8baf7e7.chunk.js.map": "/chat-test/static/js/2.f8baf7e7.chunk.js.map",
+    "index.html": "/chat-test/index.html",
+    "static/css/main.aa880576.chunk.css.map": "/chat-test/static/css/main.aa880576.chunk.css.map",
+    "static/js/2.f8baf7e7.chunk.js.LICENSE.txt": "/chat-test/static/js/2.f8baf7e7.chunk.js.LICENSE.txt",
+    "static/media/ADA.a4610b49.svg": "/chat-test/static/media/ADA.a4610b49.svg",
+    "static/media/BTC.14cd67e5.svg": "/chat-test/static/media/BTC.14cd67e5.svg",
+    "static/media/Vector_arrow.9d1d1a30.svg": "/chat-test/static/media/Vector_arrow.9d1d1a30.svg",
+    "static/media/Vector_enlarge.1bff3ccb.svg": "/chat-test/static/media/Vector_enlarge.1bff3ccb.svg",
+    "static/media/emodjis.9ab8a2c5.svg": "/chat-test/static/media/emodjis.9ab8a2c5.svg",
+    "static/media/index.css": "/chat-test/static/media/ground.2cdd6f02.png",
+    "static/media/minimize 2.c03edfeb.svg": "/chat-test/static/media/minimize 2.c03edfeb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46b69e27.js",
+    "static/js/2.f8baf7e7.chunk.js",
+    "static/css/main.aa880576.chunk.css",
+    "static/js/main.03c64c39.chunk.js"
+  ]
+}
